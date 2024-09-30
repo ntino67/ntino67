@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm Matteo Heidelberger!
 
-<!--
-**ntino67/ntino67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I'm a Computer Science student at CESI, passionate about technology and personal growth.
 
-Here are some ideas to get you started:
+### 💻 Tech Enthusiast
+- 🖥️ Studying Computer Science
+- 🚀 Always eager to learn and improve my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏋️ Active Lifestyle
+- 🧗 Avid climber
+- 🏒 Ice hockey enthusiast
+- 💪 Calisthenics practitioner
+
+### 🌱 Personal Growth
+- 📚 Constantly seeking self-improvement
+- 💡 Embracing challenges and pushing boundaries
+
+## 🔥 My Mantra
+> "Do the hard work, especially when you don't feel like it."
+
+---
+
+📫 Feel free to connect with me and let's collaborate on some exciting projects!
+
+![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntino67&show_icons=true&theme=radical)
