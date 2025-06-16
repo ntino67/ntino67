@@ -2,9 +2,9 @@
 
 Let recursion handle the edge cases I stopped believing in.
 Automated human redundancies through services that forget less and wait faster.
-Replaced factory’s fragile Excel ecosystem with an automated web orchestration layer at Hager Group. 
-Served as Make.com module alchemist during DALIM’s automation crusade.  
-Currently enforcing semantic compression across backends in stealth-mode operations.  
+Replaced factory’s fragile Excel ecosystem with an automated web orchestration layer at Hager Group.
+Served as Make.com module alchemist during DALIM’s automation crusade.
+Currently enforcing semantic compression across backends in stealth-mode operations.
 
 ---
 
